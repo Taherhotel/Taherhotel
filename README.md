@@ -17,7 +17,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 📈 **GitHub Stats**
-![Taher’s GitHub stats](https://github-readme-stats.vercel.app/api?username=taher007&show_icons=true&theme=radical)
+![Taher’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Taherhotel&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taher007&layout=compact&theme=radical)
 
 🧩 **Featured Projects**
