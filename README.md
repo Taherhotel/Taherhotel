@@ -67,6 +67,10 @@
 ![Taher’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Taherhotel&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taherhotel&layout=compact&theme=radical)
 
+
+**GitHub streak**
+[![GitHub Streak](https://streak-stats.demolab.com/?user=taher007&theme=radical)](https://git.io/streak-stats)
+
 🧩 **Featured Projects**
 - 🕵️‍♂️ [Phishing Detection System](https://github.com/yourrepo)
 - 🌿 [AgroFlow – Smart Hydroponic Dosing System](https://github.com/yourrepo)
