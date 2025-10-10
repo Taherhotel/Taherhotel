@@ -69,7 +69,7 @@
 
 
 **GitHub streak**
-[![GitHub Streak](https://streak-stats.demolab.com/?user=taher007&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Taherhotel&theme=radical)](https://git.io/streak-stats)
 
 🧩 **Featured Projects**
 - 🕵️‍♂️ [Phishing Detection System](https://github.com/yourrepo)
