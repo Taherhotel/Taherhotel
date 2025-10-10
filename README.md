@@ -64,7 +64,7 @@
 ---
 
 📈 **GitHub Stats**
-![Taher’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Taherhote&show_icons=true&theme=radical)
+![Taher’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Taherhotel&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taherhotel&layout=compact&theme=radical)
 
 🧩 **Featured Projects**
