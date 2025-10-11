@@ -71,9 +71,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Taherhotel&theme=prussian)](https://git.io/streak-stats)
 
 🧩 **Featured Projects**
-- 🕵️‍♂️ [Phishing Detection System](https://github.com/yourrepo)
+- 🕵️‍♂️ [Phishing Detection System](https://github.com/Catch-The-Phish)
 - 🌿 [AgroFlow – Smart Hydroponic Dosing System](https://github.com/yourrepo)
-- 💖 [IoT Love Lamp Project](https://github.com/yourrepo)
 
 📫 **Reach Me At**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
