@@ -71,7 +71,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Taherhotel&theme=prussian)](https://git.io/streak-stats)
 
 🧩 **Featured Projects**
-- 🕵️‍♂️ [Phishing Detection System](https://github.com/Catch-The-Phish)
+- 🕵️‍♂️ [Phishing Detection System](https://github.com/Taherhotel/Catch-The-Phish)
 - 🌿 [AgroFlow – Smart Hydroponic Dosing System](https://github.com/yourrepo)
 
 📫 **Reach Me At**
