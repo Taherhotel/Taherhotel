@@ -64,16 +64,21 @@
 ---
 
 📈 **GitHub Stats**
+
 ![Taher’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Taherhotel&show_icons=true&theme=prussian)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taherhotel&layout=compact&theme=prussian)
 
+---
 
 **GitHub streak**
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Taherhotel&theme=prussian)](https://git.io/streak-stats)
 
 🧩 **Featured Projects**
+
 - 🕵️‍♂️ [Phishing Detection System](https://github.com/Taherhotel/Catch-The-Phish)
 - 🌿 [AgroFlow – Smart Hydroponic Dosing System](https://github.com/yourrepo)
 
 📫 **Reach Me At**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/taher-hotelwala-3501b3295/))
 [![Portfolio Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
