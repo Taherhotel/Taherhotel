@@ -76,7 +76,7 @@
 🧩 **Featured Projects**
 
 - 🕵️‍♂️ [Phishing Detection System](https://github.com/Taherhotel/Catch-The-Phish)
-- 🌿 [AgroFlow – Smart Hydroponic Dosing System](https://github.com/yourrepo)
+- 🌿 [AgroFlow – Smart Hydroponic Dosing System]([https://github.com/yourrepo](https://github.com/Taherhotel/agroflow))
 
 📫 **Reach Me At**
 
