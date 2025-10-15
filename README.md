@@ -68,10 +68,10 @@
 ![Taher’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Taherhotel&show_icons=true&theme=prussian)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taherhotel&layout=compact&theme=prussian)
 
 ---
-
 **GitHub streak**
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Taherhotel&theme=prussian)](https://git.io/streak-stats)
+
 
 🧩 **Featured Projects**
 
