@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="406" viewBox="0 0 900 406">
+<style>@keyframes w0{from{width:159.6px}to{width:220px}}
+  .l0{opacity:0;animation:show 0s 0.6s forwards}
+  .k0{width:159.6px;animation:w0 0.5s steps(6) 0.6s forwards}@keyframes w1{from{width:0px}to{width:564.4px}}
+  .l1{opacity:0;animation:show 0s 1.45s forwards}
+  .k1{width:0px;animation:w1 0.25s steps(1) 1.45s forwards}@keyframes w2{from{width:159.6px}to{width:278.8px}}
+  .l2{opacity:0;animation:show 0s 1.8199999999999998s forwards}
+  .k2{width:159.6px;animation:w2 0.78s steps(13) 1.8199999999999998s forwards}@keyframes w3{from{width:0px}to{width:304px}}
+  .l3{opacity:0;animation:show 0s 2.9499999999999997s forwards}
+  .k3{width:0px;animation:w3 0.25s steps(1) 2.9499999999999997s forwards}@keyframes w4{from{width:0px}to{width:253.60000000000002px}}
+  .l4{opacity:0;animation:show 0s 3.32s forwards}
+  .k4{width:0px;animation:w4 0.25s steps(1) 3.32s forwards}@keyframes w5{from{width:0px}to{width:329.2px}}
+  .l5{opacity:0;animation:show 0s 3.69s forwards}
+  .k5{width:0px;animation:w5 0.25s steps(1) 3.69s forwards}@keyframes w6{from{width:159.6px}to{width:446.79999999999995px}}
+  .l6{opacity:0;animation:show 0s 4.06s forwards}
+  .k6{width:159.6px;animation:w6 1.98s steps(33) 4.06s forwards}@keyframes w7{from{width:0px}to{width:203.20000000000002px}}
+  .l7{opacity:0;animation:show 0s 6.39s forwards}
+  .k7{width:0px;animation:w7 0.25s steps(1) 6.39s forwards}@keyframes w8{from{width:0px}to{width:262px}}
+  .l8{opacity:0;animation:show 0s 6.76s forwards}
+  .k8{width:0px;animation:w8 0.25s steps(1) 6.76s forwards}@keyframes w9{from{width:0px}to{width:262px}}
+  .l9{opacity:0;animation:show 0s 7.13s forwards}
+  .k9{width:0px;animation:w9 0.25s steps(1) 7.13s forwards}@keyframes w10{from{width:0px}to{width:270.40000000000003px}}
+  .l10{opacity:0;animation:show 0s 7.5s forwards}
+  .k10{width:0px;animation:w10 0.25s steps(1) 7.5s forwards}@keyframes w11{from{width:159.6px}to{width:287.2px}}
+  .l11{opacity:0;animation:show 0s 7.87s forwards}
+  .k11{width:159.6px;animation:w11 0.84s steps(14) 7.87s forwards}@keyframes w12{from{width:0px}to{width:564.4px}}
+  .l12{opacity:0;animation:show 0s 9.06s forwards}
+  .k12{width:0px;animation:w12 0.25s steps(1) 9.06s forwards}
+@keyframes show{to{opacity:1}}
+.cur{opacity:0;animation:show 0s 9.43s forwards, blink 1s steps(1) 9.43s infinite}
+@keyframes blink{50%{fill-opacity:0}}
+.scanl{animation:sl 6s linear infinite}@keyframes sl{from{transform:translateY(-40px)}to{transform:translateY(406px)}}
+</style>
+<defs><linearGradient id="sg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00ff9c" stop-opacity="0"/><stop offset="1" stop-color="#00ff9c" stop-opacity=".07"/></linearGradient></defs>
+<rect width="900" height="406" rx="14" fill="#0d1117" stroke="#30363d"/>
+<rect width="900" height="32" rx="14" fill="#161b22"/><rect y="18" width="900" height="14" fill="#161b22"/>
+<circle cx="22" cy="16" r="6" fill="#ff5f56"/><circle cx="42" cy="16" r="6" fill="#ffbd2e"/><circle cx="62" cy="16" r="6" fill="#27c93f"/>
+<text x="450" y="21" text-anchor="middle" font-size="12" fill="#8b949e" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace">taher@kali: ~ — zsh</text>
+<clipPath id="c0"><rect class="k0" x="24" y="37" height="24"/></clipPath>
+  <text class="l0" clip-path="url(#c0)" x="24" y="54" font-size="14" fill="#e6edf3" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" xml:space="preserve"><tspan fill="#00ff9c">┌─[taher@kali]─[~]$ </tspan>whoami</text><clipPath id="c1"><rect class="k1" x="24" y="61" height="24"/></clipPath>
+  <text class="l1" clip-path="url(#c1)" x="24" y="78" font-size="14" fill="#c9d1d9" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" xml:space="preserve">taher_hotelwala  // AI &amp; Robotics @ K.J. Somaiya, Mumbai (2023-27)</text><clipPath id="c2"><rect class="k2" x="24" y="85" height="24"/></clipPath>
+  <text class="l2" clip-path="url(#c2)" x="24" y="102" font-size="14" fill="#e6edf3" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" xml:space="preserve"><tspan fill="#00ff9c">┌─[taher@kali]─[~]$ </tspan>cat focus.txt</text><clipPath id="c3"><rect class="k3" x="24" y="109" height="24"/></clipPath>
+  <text class="l3" clip-path="url(#c3)" x="24" y="126" font-size="14" fill="#c9d1d9" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" xml:space="preserve">[+] Cybersecurity &amp; ethical hacking</text><clipPath id="c4"><rect class="k4" x="24" y="133" height="24"/></clipPath>
+  <text class="l4" clip-path="url(#c4)" x="24" y="150" font-size="14" fill="#c9d1d9" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" xml:space="preserve">[+] AI-powered security tools</text><clipPath id="c5"><rect class="k5" x="24" y="157" height="24"/></clipPath>
+  <text class="l5" clip-path="url(#c5)" x="24" y="174" font-size="14" fill="#c9d1d9" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" xml:space="preserve">[+] Robotics · IoT · network forensics</text><clipPath id="c6"><rect class="k6" x="24" y="181" height="24"/></clipPath>
+  <text class="l6" clip-path="url(#c6)" x="24" y="198" font-size="14" fill="#e6edf3" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" xml:space="preserve"><tspan fill="#00ff9c">┌─[taher@kali]─[~]$ </tspan>nmap -sV --script=curiosity taher</text><clipPath id="c7"><rect class="k7" x="24" y="205" height="24"/></clipPath>
+  <text class="l7" clip-path="url(#c7)" x="24" y="222" font-size="14" fill="#58a6ff" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" xml:space="preserve">PORT     STATE  SERVICE</text><clipPath id="c8"><rect class="k8" x="24" y="229" height="24"/></clipPath>
+  <text class="l8" clip-path="url(#c8)" x="24" y="246" font-size="14" fill="#58a6ff" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" xml:space="preserve">22/tcp   open   ml-engineering</text><clipPath id="c9"><rect class="k9" x="24" y="253" height="24"/></clipPath>
+  <text class="l9" clip-path="url(#c9)" x="24" y="270" font-size="14" fill="#58a6ff" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" xml:space="preserve">443/tcp  open   secure-systems</text><clipPath id="c10"><rect class="k10" x="24" y="277" height="24"/></clipPath>
+  <text class="l10" clip-path="url(#c10)" x="24" y="294" font-size="14" fill="#58a6ff" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" xml:space="preserve">1337/tcp open   ethical-hacking</text><clipPath id="c11"><rect class="k11" x="24" y="301" height="24"/></clipPath>
+  <text class="l11" clip-path="url(#c11)" x="24" y="318" font-size="14" fill="#e6edf3" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" xml:space="preserve"><tspan fill="#00ff9c">┌─[taher@kali]─[~]$ </tspan>./status --now</text><clipPath id="c12"><rect class="k12" x="24" y="325" height="24"/></clipPath>
+  <text class="l12" clip-path="url(#c12)" x="24" y="342" font-size="14" fill="#00ff9c" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" xml:space="preserve">&gt;&gt; Open to internships &amp; collaborations. Let's build something. 🤝</text>
+<g class="cur"><text x="24" y="366" font-size="14" fill="#00ff9c" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" xml:space="preserve">┌─[taher@kali]─[~]$ <tspan>█</tspan></text></g>
+<rect class="scanl" x="0" y="0" width="900" height="40" fill="url(#sg)"/>
+</svg>
