@@ -77,16 +77,6 @@
 
 ---
 
-## 🎯 `~/ctf-and-labs`
-
-<p align="center">
-  <a href="https://tryhackme.com/p/Thacks123">
-    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4455225" alt="TryHackMe"/>
-  </a>
-</p>
-
----
-
 ## 🐍 `~/contributions`
 
 <p align="center">
