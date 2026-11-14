@@ -63,8 +63,8 @@
 ## 📊 `~/stats`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Taherhotel&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taherhotel&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&langs_count=8"/>
+  <img src="https://raw.githubusercontent.com/Taherhotel/Taherhotel/output/stats.svg" width="49%" alt="GitHub stats"/>
+  <img src="https://raw.githubusercontent.com/Taherhotel/Taherhotel/output/langs.svg" width="49%" alt="Top languages"/>
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Taherhotel&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/Taherhotel/Taherhotel/output/activity.svg" width="100%" alt="Contribution activity"/>
 </p>
 
 ---
@@ -93,4 +93,4 @@
   <code>⚠️ All hacking done ethically, legally, and with permission.</code>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%"/>
