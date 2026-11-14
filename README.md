@@ -1,12 +1,5 @@
-<!-- ════════════════════════ HEADER ════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Taher%20Hotelwala&fontSize=58&fontColor=00ff9c&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Robotics%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Ethical%20Hacking&descAlignY=58&descSize=18" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+Taher+Hotelwala;Breaking+things+ethically+%F0%9F%94%90;Building+AI-powered+security+tools+%F0%9F%A4%96;Robotics+%2B+IoT+%2B+Network+Forensics;Always+learning%2C+always+hacking+%E2%9A%A1" alt="Typing SVG"/>
-  </a>
+  <img src="./assets/header.svg" width="100%" alt="Taher Hotelwala"/>
 </p>
 
 <p align="center">
@@ -16,62 +9,18 @@
   <img src="https://komarev.com/ghpvc/?username=Taherhotel&style=for-the-badge&color=00ff9c&label=PROFILE+VIEWS"/>
 </p>
 
----
+## 💻 `~/about-me`
 
-## <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="32"/> `~/about-me`
-
-```bash
-┌──(taher㉿kali)-[~]
-└─$ cat profile.json
-```
-
-```json
-{
-  "name"        : "Taher Hotelwala",
-  "education"   : "B.Tech, AI & Robotics @ K.J. Somaiya, Mumbai (2023–27)",
-  "focus"       : ["Cybersecurity", "AI-powered security tools", "Robotics & IoT"],
-  "learning"    : ["Machine Learning", "Network Forensics", "IoT Security"],
-  "loves"       : "Building smart systems & ethical hacking labs",
-  "motto"       : "If it has an IP, it has a story. Let's read it.",
-  "status"      : "Open to internships & collaborations 🤝"
-}
-```
+<p align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="whoami terminal"/>
+</p>
 
 ---
 
 ## 🧰 `~/arsenal`
 
-<h4 align="center">⌨️ Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,ts,js,html,css,bash&theme=dark"/>
-</p>
-
-<h4 align="center">⚙️ Frameworks · AI/ML · Robotics</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,tensorflow,pytorch,sklearn,opencv,ros&theme=dark"/>
-</p>
-
-<h4 align="center">🗄️ Databases</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite&theme=dark"/>
-  <img src="https://img.shields.io/badge/CouchDB-E42528?style=for-the-badge&logo=apache-couchdb&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/PouchDB-3C3C3D?style=for-the-badge&logo=pouchdb&logoColor=white" height="40"/>
-</p>
-
-<h4 align="center">☁️ Cloud · DevOps · Platforms</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,azure,gcp,vercel,netlify,heroku,linux,ubuntu,raspberrypi,vscode&theme=dark"/>
-</p>
-
-<h4 align="center">🛡️ Offensive & Defensive Security</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kali&theme=dark"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Parrot_OS-15AABF?style=for-the-badge&logo=parrotsecurity&logoColor=white"/>
+  <img src="./assets/arsenal.svg" width="100%" alt="Tech arsenal"/>
 </p>
 
 ---
