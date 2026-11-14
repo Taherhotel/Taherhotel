@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/taher-hotelwala-3501b3295/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://portfolio-taherh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00ff9c"/></a>
-  <a href="https://tryhackme.com/p/Thacks123"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
   <img src="https://komarev.com/ghpvc/?username=Taherhotel&style=for-the-badge&color=00ff9c&label=PROFILE+VIEWS"/>
 </p>
 
